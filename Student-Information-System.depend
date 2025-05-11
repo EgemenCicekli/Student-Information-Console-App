@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1746922546 source:c:\users\egemen\desktop\codeblocks projects\student-information-system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<ctype.h>
+	<string.h>
+	<dirent.h>
+
